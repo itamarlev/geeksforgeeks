@@ -1,5 +1,7 @@
-import java.lang.*;
-import java.io.*;
+package geeksforgeeks;
+
+import java.util.HashMap;
+import java.util.Scanner;
 class GFG
  {
 	public static void main (String[] args)
